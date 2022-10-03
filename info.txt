@@ -1,0 +1,18 @@
+ 0   ADDRESS	 	object 
+ 1   SUBURB		object 
+ 2   BEDROOMS 		int64  
+ 3   BATHROOMS 		int64  
+ 4   GARAGE 		float64	null
+ 5   LAND_AREA 		int64
+ 6   FLOOR_AREA 		int64  
+ 7   BUILD_YEAR 		float64	null
+ 8   CBD_DIST 		int64
+ 9   NEAREST_STN 		object
+ 10  NEAREST_STN_DIST 	int64
+ 11  DATE_SOLD 		object
+ 12  POSTCODE 		int64 
+ 13  LATITUDE 		float64
+ 14  LONGITUDE 		float64
+ 15  NEAREST_SCH		object 
+ 16  NEAREST_SCH_DIST 	float64
+ 17  NEAREST_SCH_RANK 	float64	null

@@ -1,0 +1,6 @@
+address : 많은 순서로 레이블 인코딩
+suburb : 가격순 레이블 인코딩
+garage : 평균으로 결측치 채우기
+land_area를 floor_area로 나눈 용적율 열 만들기
+postcode 6002로 빼기
+build_year 
